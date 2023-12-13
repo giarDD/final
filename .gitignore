@@ -1,0 +1,10 @@
+1/bin/
+1/obj/
+1/*.csproj
+2/bin/
+2/obj/
+2/*.csproj
+3/bin/
+3/obj/
+3/*.csproj
+*.sln
